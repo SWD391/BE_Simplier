@@ -1,0 +1,15 @@
+D:\Solution1\Repository\bin\Debug\net7.0\Repository.deps.json
+D:\Solution1\Repository\bin\Debug\net7.0\Repository.dll
+D:\Solution1\Repository\bin\Debug\net7.0\Repository.pdb
+D:\Solution1\Repository\bin\Debug\net7.0\BusinessObjects.dll
+D:\Solution1\Repository\bin\Debug\net7.0\BusinessObjects.pdb
+D:\Solution1\Repository\obj\Debug\net7.0\Repository.csproj.AssemblyReference.cache
+D:\Solution1\Repository\obj\Debug\net7.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Solution1\Repository\obj\Debug\net7.0\Repository.AssemblyInfoInputs.cache
+D:\Solution1\Repository\obj\Debug\net7.0\Repository.AssemblyInfo.cs
+D:\Solution1\Repository\obj\Debug\net7.0\Repository.csproj.CoreCompileInputs.cache
+D:\Solution1\Repository\obj\Debug\net7.0\Repository.csproj.CopyComplete
+D:\Solution1\Repository\obj\Debug\net7.0\Repository.dll
+D:\Solution1\Repository\obj\Debug\net7.0\refint\Repository.dll
+D:\Solution1\Repository\obj\Debug\net7.0\Repository.pdb
+D:\Solution1\Repository\obj\Debug\net7.0\ref\Repository.dll

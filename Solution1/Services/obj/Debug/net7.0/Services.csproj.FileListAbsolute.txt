@@ -1,0 +1,17 @@
+D:\Solution1\Services\bin\Debug\net7.0\Services.deps.json
+D:\Solution1\Services\bin\Debug\net7.0\Services.dll
+D:\Solution1\Services\bin\Debug\net7.0\Services.pdb
+D:\Solution1\Services\bin\Debug\net7.0\BusinessObjects.dll
+D:\Solution1\Services\bin\Debug\net7.0\Repository.dll
+D:\Solution1\Services\bin\Debug\net7.0\BusinessObjects.pdb
+D:\Solution1\Services\bin\Debug\net7.0\Repository.pdb
+D:\Solution1\Services\obj\Debug\net7.0\Services.csproj.AssemblyReference.cache
+D:\Solution1\Services\obj\Debug\net7.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Solution1\Services\obj\Debug\net7.0\Services.AssemblyInfoInputs.cache
+D:\Solution1\Services\obj\Debug\net7.0\Services.AssemblyInfo.cs
+D:\Solution1\Services\obj\Debug\net7.0\Services.csproj.CoreCompileInputs.cache
+D:\Solution1\Services\obj\Debug\net7.0\Services.csproj.CopyComplete
+D:\Solution1\Services\obj\Debug\net7.0\Services.dll
+D:\Solution1\Services\obj\Debug\net7.0\refint\Services.dll
+D:\Solution1\Services\obj\Debug\net7.0\Services.pdb
+D:\Solution1\Services\obj\Debug\net7.0\ref\Services.dll
